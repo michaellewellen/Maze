@@ -66,6 +66,4 @@ Submission
 Make sure to add, commit and push so your code makes it back up to GitHub. Submit the url of your repository.
 Grading
 
-Grading must be done in person or via Teams with a TA or instructor.
-
-Getting a TA or instructor to sign-off on your lab before you leave is the easiest and best way to get the best grade possible. If you cannot finish before leaving, make sure that you can schedule a time to finish with your partner and pass-off.
+Grading must be done in person or via Teams with me.
